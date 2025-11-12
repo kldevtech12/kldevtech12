@@ -106,13 +106,3 @@ drwxr-xr-x 3 dev dev 4096 Oct 24 2025 ..
 ![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=kldevtech12&theme=react-dark&hide_border=true&bg_color=0D1117&color=00FF00&line=00FF00&point=00FF00)
 
 </div>
-
-
-<div align="center">
-
-```ascii
-╔═══════════════════════════════════════╗
-║  Thanks for visiting! Happy coding!   ║
-╚═══════════════════════════════════════╝
-```
-</div>
