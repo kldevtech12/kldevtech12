@@ -75,19 +75,6 @@ drwxr-xr-x 3 dev dev 4096 Oct 24 2025 ..
 
 <div align="left">
 
-```json
-{
-  "daily_routine": [
-    "Coffee.init()",
-    "Code.compile()",
-    "Bugs.fix()",
-    "Features.deploy()",
-    "Knowledge.expand()"
-  ],
-  "philosophy": "Clean code, strong security, optimal performance"
-}
-```
-
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=radical&hide_border=true&background=0D1117&ring=00FF00&fire=00FF00&currStreakLabel=00FF00)
 
 </div>
@@ -95,10 +82,6 @@ drwxr-xr-x 3 dev dev 4096 Oct 24 2025 ..
 ---
 
 ## ~/activity.log
-
-```bash
-> Monitoring GitHub activity...
-```
 
 <div align="center">
 
