@@ -40,7 +40,6 @@ drwxr-xr-x 3 dev dev 4096 Oct 24 2025 ..
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="48" height="48" alt="Python" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original.svg" width="48" height="48" alt="Go" />
   <img src="https://skillicons.dev/icons?i=php,nodejs" width="96" alt="PHP, Node.js" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/lua/lua-original.svg" width="48" height="48" alt="Lua" />
 </p>
 
 <p>
