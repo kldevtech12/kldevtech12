@@ -75,7 +75,7 @@ drwxr-xr-x 3 dev dev 4096 Oct 24 2025 ..
 
 <div align="left">
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=radical&hide_border=true&background=0D1117&ring=00FF00&fire=00FF00&currStreakLabel=00FF00)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=kldevtech12&theme=radical&hide_border=true&background=0D1117&ring=00FF00&fire=00FF00&currStreakLabel=00FF00)
 
 </div>
 
